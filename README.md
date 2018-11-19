@@ -22,7 +22,11 @@ A collection of engineering ladders for reference and inspiration.
 - [Ladder roundup by SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi (another nice roundup)](http://www.progression.fyi/)
 
-## Other Useful Links
+## Engineering Management
+
+- [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager)
+- [Engineering Management: Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
+
+## Developer Career Development
 
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-- [Engineering Management: Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
