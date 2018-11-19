@@ -17,7 +17,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
 - [VTS](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 
-##  Career Ladder Collections
+##  Engineering Ladder Collections
 
 - [Ladder roundup by SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi (another nice roundup)](http://www.progression.fyi/)
@@ -25,3 +25,4 @@ A collection of engineering ladders for reference and inspiration.
 ## Other Useful Links
 
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [Engineering Management: Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
