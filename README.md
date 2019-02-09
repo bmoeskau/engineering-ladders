@@ -6,6 +6,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 - [Buffer](https://open.buffer.com/engineering-career-framework/)
 - [Chartbeat](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
+- [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
 - [Glossier](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Fog Creek](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
