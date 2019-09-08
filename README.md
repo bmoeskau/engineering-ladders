@@ -23,6 +23,10 @@ A collection of engineering ladders for reference and inspiration.
 - [Ladder roundup by SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi (another nice roundup)](http://www.progression.fyi/)
 
+##  Other Engineering Ladder Resources
+
+- [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) (conference talk video)
+
 ## Engineering Management
 
 - [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager)
