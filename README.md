@@ -16,7 +16,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
-- [Spotify][https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/]
+- [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
 - [VTS](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 
 ##  Engineering Ladder Collections
