@@ -17,12 +17,16 @@ A collection of engineering ladders for reference and inspiration.
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
 - [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
-- [VTS](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
+- [VTS](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 
 ##  Engineering Ladder Collections
 
 - [Ladder roundup by SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi (another nice roundup)](http://www.progression.fyi/)
+
+##  Other Engineering Ladder Resources
+
+- [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) (conference talk video)
 
 ## Engineering Management
 
