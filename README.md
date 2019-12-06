@@ -23,12 +23,13 @@ A collection of engineering ladders for reference and inspiration.
 
 ##  Engineering Ladder Collections
 
-- [Ladder roundup by SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
-- [Progression.fyi (another nice roundup)](http://www.progression.fyi/)
+- [SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
+- [Progression.fyi](http://www.progression.fyi/)
 
 ##  Other Engineering Ladder Resources
 
-- [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) (conference talk video)
+- [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) &mdash; conference talk video
+- [Evolving the One Medical Leveling Guide](https://medium.com/one-medical-technology/evolving-the-one-medical-leveling-guide-51dc82d7e26c) &mdash; process for updating and evolving career ladders over time
 
 ## Engineering Management
 
