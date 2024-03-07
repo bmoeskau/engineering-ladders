@@ -18,7 +18,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Meetup.com](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
 - [Mercari](https://engineering.mercari.com/en/ladder/)
 - [Monday.com](https://growth.monday.com/homepage/rd/engineering/)
-- [Monzo](https://progression.monzo.com/)
+- [Monzo](https://monzo.com/documents/engineering-progression-framework-v3-0.pdf)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
 - [Revelo](https://labs.revelo.com/template/revelo-revelo-engineering-ladder-1?utm_source=github&utm_medium=github&utm_campaign=engineering-ladders)
 - [Skylight](https://skylight.digital/careers/career-pathways/software-engineer/)
