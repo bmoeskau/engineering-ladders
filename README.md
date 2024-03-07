@@ -1,6 +1,6 @@
 # Engineering Ladders
 
-A collection of engineering ladders for reference and inspiration.
+A collection of engineering career ladders for reference and inspiration.
 
 - [Axelerant](https://www.axelerant.com/resources/articles/how-to-design-an-effective-career-ladder-for-engineers)
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
