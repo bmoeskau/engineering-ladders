@@ -15,7 +15,6 @@ A collection of engineering ladders for reference and inspiration.
 - [InfraCloud](https://career-ladders.infracloud.io/docs/)
 - [Kickstarter](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 - [Medium](https://medium.com/s/engineering-growth-framework)
-- [Meetup.com](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e)
 - [Mercari](https://engineering.mercari.com/en/ladder/)
 - [Monzo](https://monzo.com/documents/engineering-progression-framework-v3-0.pdf)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
