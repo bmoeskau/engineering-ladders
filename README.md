@@ -26,7 +26,6 @@ A collection of engineering ladders for reference and inspiration.
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
 - [Spotify](https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/)
 - [Square](https://developer.squareup.com/blog/squares-updated-growth-framework-for-engineers-and-engineering-managers/)
-- [VTS](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 
 ## Engineering Ladder Collections
 
@@ -41,6 +40,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) &mdash; conference talk video
 - [Evolving the One Medical Leveling Guide](https://medium.com/one-medical-technology/evolving-the-one-medical-leveling-guide-51dc82d7e26c) &mdash; process for updating and evolving career ladders over time
 - [Engineering Ladders](https://github.com/jorgef/engineeringladders) &mdash; A framework for Engineering Managers
+- [The Software Engineering Job Ladder](https://cgroom.medium.com/the-software-engineering-job-ladder-4bf70b4c24f3) &mdash; Blog post by Chuck Groom
 
 ## Engineering Management
 
