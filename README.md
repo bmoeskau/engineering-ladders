@@ -2,6 +2,7 @@
 
 A collection of engineering career ladders for reference and inspiration.
 
+- [Artsy](https://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/)
 - [Axelerant](https://www.axelerant.com/resources/articles/how-to-design-an-effective-career-ladder-for-engineers)
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 - [Better](https://better.engineering/career-ladder/)
