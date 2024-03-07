@@ -15,6 +15,7 @@ A collection of engineering career ladders for reference and inspiration.
 - [Glossier](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Fog Creek](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
 - [InfraCloud](https://career-ladders.infracloud.io/docs/)
+- [Khan Academy](https://docs.google.com/document/d/1qr0d05X5-AsyDYqKRCfgGGcWSshTMd_vfTggfhDpbls/edit)
 - [Kickstarter](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
 - [Malt](https://malt.engineering/pages/career-path/engineering/)
 - [Medium](https://medium.com/s/engineering-growth-framework)
