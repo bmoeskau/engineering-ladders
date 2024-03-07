@@ -35,6 +35,7 @@ A collection of engineering ladders for reference and inspiration.
 
 ## Other Engineering Ladder Resources
 
+- [Things to Know About Engineering Levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/) &mdash; Insightful post by Charity Majors
 - [Creating a career ladder for engineers](https://www.youtube.com/watch?v=jA1Q94d2z10&list=PLBzScQzZ83I9F5RvpuDdABrLvu_w1QEUi) &mdash; conference talk video
 - [Evolving the One Medical Leveling Guide](https://medium.com/one-medical-technology/evolving-the-one-medical-leveling-guide-51dc82d7e26c) &mdash; process for updating and evolving career ladders over time
 - [Engineering Ladders](https://github.com/jorgef/engineeringladders) &mdash; A framework for Engineering Managers
