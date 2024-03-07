@@ -9,6 +9,7 @@ A collection of engineering ladders for reference and inspiration.
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 - [Dropbox](https://dropbox.github.io/dbx-career-framework/)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
+- [Etsy](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
 - [GitLab](https://handbook.gitlab.com/handbook/engineering/careers/matrix/)
 - [Glossier](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Fog Creek](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
