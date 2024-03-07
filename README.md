@@ -47,7 +47,6 @@ A collection of engineering ladders for reference and inspiration.
 ## Engineering Management
 
 - [1:1 Basics for the Introvert Engineering Manager](https://speakerdeck.com/orenellenbogen/1-1-basics-for-the-introvert-engineering-manager)
-- [Engineering Management: Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
 
 ## Developer Career Development
 
