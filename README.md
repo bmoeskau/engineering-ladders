@@ -4,6 +4,7 @@ A collection of engineering ladders for reference and inspiration.
 
 - [Axelerant](https://www.axelerant.com/resources/articles/how-to-design-an-effective-career-ladder-for-engineers)
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
+- [Better](https://better.engineering/career-ladder/)
 - [Buffer](https://open.buffer.com/engineering-career-framework/)
 - [Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
