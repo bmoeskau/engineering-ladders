@@ -5,7 +5,6 @@ A collection of engineering career ladders for reference and inspiration.
 - [Artsy](https://artsy.github.io/blog/2015/04/03/artsy-engineering-compensation-framework/)
 - [Axelerant](https://www.axelerant.com/resources/articles/how-to-design-an-effective-career-ladder-for-engineers)
 - [Basecamp](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
-- [Better](https://better.engineering/career-ladder/)
 - [Buffer](https://open.buffer.com/engineering-career-framework/)
 - [Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20)
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
@@ -23,7 +22,6 @@ A collection of engineering career ladders for reference and inspiration.
 - [Mercari](https://engineering.mercari.com/en/ladder/)
 - [Monzo](https://monzo.com/documents/engineering-progression-framework-v3-0.pdf)
 - [Rent the Runway](http://dresscode.renttherunway.com/blog/ladder)
-- [Revelo](https://labs.revelo.com/template/revelo-revelo-engineering-ladder-1?utm_source=github&utm_medium=github&utm_campaign=engineering-ladders)
 - [Skylight](https://skylight.digital/careers/career-pathways/software-engineer/)
 - [Songkick](https://www.songkick.com/downloads/growth-framework/sk-growth-framework.pdf)
 - [Soundcloud](https://developers.soundcloud.com/blog/engineering-levels)
@@ -33,7 +31,6 @@ A collection of engineering career ladders for reference and inspiration.
 ## Engineering Ladder Collections
 
 - [Career-ladders.dev](https://career-ladders.dev/engineering/)
-- [Career Tracker](https://labs.revelo.com/?utm_source=github&utm_medium=github&utm_campaign=engineering-ladders)
 - [SqueakyVessel](https://squeakyvessel.com/2016/07/11/engineering-ladders-links-elsewhere/#songkick-ladder)
 - [Progression.fyi](http://www.progression.fyi/)
 - [30+ Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
