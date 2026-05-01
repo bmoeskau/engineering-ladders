@@ -40,7 +40,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
 
   # Deployment job — only runs on pushes to main / manual dispatch, not PRs
   deploy:
