@@ -1,9 +1,13 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Workflow for building and deploying the Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
   # Runs on pushes targeting the default branch
   push:
+    branches: ["main"]
+
+  # Also build (but do not deploy) on pull requests for verification
+  pull_request:
     branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
@@ -29,7 +33,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
@@ -38,8 +42,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
+  # Deployment job — only runs on pushes to main / manual dispatch, not PRs
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
